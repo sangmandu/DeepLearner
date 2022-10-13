@@ -4,11 +4,11 @@
 # 📖 LEARNING
 - [손으로 푸는 통계](https://www.youtube.com/playlist?list=PLmljWRabIwWBxh8V6eIODIz--B802mdLt)
 
-- [확률과 통계](https://blog.naver.com/mykepzzang/220790435335) [30 / 100]
+- [확률과 통계](https://blog.naver.com/mykepzzang/220790435335) ✏️ 30 🔋 100
 
 - [수리통계학](https://product.kyobobook.co.kr/detail/S000001006969)
 
-- [쑤튜브:선형대수](https://www.youtube.com/playlist?list=PLdEdazAwz5Q_n47tqf0QY94ASCmWqeGX1) [24 / 104]
+- [쑤튜브:선형대수](https://www.youtube.com/playlist?list=PLdEdazAwz5Q_n47tqf0QY94ASCmWqeGX1) ✏️ 24 🔋 104
 
 - [고려대학교 DSBA 연구실:Unstructured Data Analysis](https://www.youtube.com/playlist?list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm)
 
