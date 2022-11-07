@@ -4,11 +4,9 @@
 # 📖 LEARNING
 - [손으로 푸는 통계](https://www.youtube.com/playlist?list=PLmljWRabIwWBxh8V6eIODIz--B802mdLt)
 
-- [확률과 통계](https://blog.naver.com/mykepzzang/220790435335) ✏️ 30 🔋 100
+- [확률과 통계](https://blog.naver.com/mykepzzang/220790435335)
 
 - [수리통계학](https://product.kyobobook.co.kr/detail/S000001006969)
-
- ✏️ 24 🔋 104
 
 - [고려대학교 DSBA 연구실:Unstructured Data Analysis](https://www.youtube.com/playlist?list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm)
 
@@ -16,11 +14,11 @@
 
 - [추천시스템](https://product.kyobobook.co.kr/detail/S000001805083)
 
+- [메타코드:선형대수학 총정리](https://www.youtube.com/watch?v=cpRgDDoGktk)
+
 # 📚 LEARNED 
 ## ⚔️ 2022
 - [X] [손으로 푸는 확률분포](https://www.youtube.com/playlist?list=PLmljWRabIwWDCLjAMfTPigyTe-jtsLca1) ⭐⭐⭐⭐⭐
-
-
 - [X] []() 
 - [X] []() 
 - [X] []() 
