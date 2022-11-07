@@ -8,7 +8,7 @@
 
 - [수리통계학](https://product.kyobobook.co.kr/detail/S000001006969)
 
-- [쑤튜브:선형대수](https://www.youtube.com/playlist?list=PLdEdazAwz5Q_n47tqf0QY94ASCmWqeGX1) ✏️ 24 🔋 104
+ ✏️ 24 🔋 104
 
 - [고려대학교 DSBA 연구실:Unstructured Data Analysis](https://www.youtube.com/playlist?list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm)
 
@@ -109,6 +109,15 @@ SQL이 무엇인지 알게해준 강의. 데이터 베이스 쌩 초보라면 �
 </details>
 
 # 🗑️ Abandoned
+
+- [ ] [쑤튜브:선형대수](https://www.youtube.com/playlist?list=PLdEdazAwz5Q_n47tqf0QY94ASCmWqeGX1)
+<details>
+<summary></summary>
+<div markdown="1">
+내가 선형대수를 졸려하는걸까.. 지루했다. 증명 중심의 방식이라 좋았는데, 좀 설명이 장황하다고 느꼈다. 쉬운것도 어렵게 말하는 느낌도 있고 10분을 채우려는 느낌도 있고. 열심히 30강까지 들었지만 
+</div>
+</details>
+
 - [ ] [Do It! 장고+부트스트랩: 파이썬 웹개발의 정석](https://inf.run/z9q7)
 <details>
 <summary></summary>
