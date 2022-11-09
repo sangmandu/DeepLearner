@@ -1,5 +1,5 @@
 ---
-name: 2022 TEMPLATE
+name: WEEK
 about: WEEK , , 2022
 title: ''
 labels: '2022'
