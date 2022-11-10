@@ -14,14 +14,22 @@
 
 - [추천시스템](https://product.kyobobook.co.kr/detail/S000001805083)
 
-- [메타코드:선형대수학 총정리](https://www.youtube.com/watch?v=cpRgDDoGktk)
+- [메타코드:머신러닝](https://youtu.be/oyzIT1g1Z3U)
+
+- [메타코드:자연어 처리](https://youtu.be/Rf7wvs8ZbP4)
+
+- [메타코드:통계](https://youtu.be/Rf7wvs8ZbP4)
 
 # 📚 LEARNED 
 ## ⚔️ 2022
+- [X] []() 
+- [X] []() 
+- [X] []() 
+- [X] []() 
+- [X] []() 
+- [X] []() 
+- [X] [메타코드:선형대수](https://youtu.be/cpRgDDoGktk) ⭐⭐⭐⭐
 - [X] [손으로 푸는 확률분포](https://www.youtube.com/playlist?list=PLmljWRabIwWDCLjAMfTPigyTe-jtsLca1) ⭐⭐⭐⭐⭐
-- [X] []() 
-- [X] []() 
-- [X] []() 
 
 ## ⚔️ 2021
 - [X] [모두를 위한 딥러닝 강좌 시즌1](https://www.youtube.com/watch?v=BS6O0zOGX4E)  
