@@ -1,6 +1,6 @@
 # 📃 PAPER
 📄 Reading  
-🖋️ Posting
+🖋️ Posting  
 🔍 Watching Review  
 📢 Presentation  
 💻 Implementation  
