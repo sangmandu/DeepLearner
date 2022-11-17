@@ -2,6 +2,7 @@
 |📄|🖋️|🔍|📢|💻|
 |:---:|:---:|:---:|:---:|:---:|
 |Reading|Posting|Watching Review|Presentation|Implementation|
+- I got motivated from [jinmang2](https://github.com/jinmang2/Awesome-Papers)
 
 ---
 Constructing Now ... (not yet accomplished)
