@@ -30,7 +30,19 @@ Constructing Now ... (not yet accomplished)
   - `2014` `Seq2Seq`
 - Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation
   - `2014`
-  
+
+- T5
+- XLNet
+- MASS
+- BART
+- MT-DNN
+- SimCSE
+- DistilBert
+- AlBert
+- SBert
+- 
+
+
 #### Reports
 - What Does BERT Look At? An Analysis of BERT's Attention 📄🔍📢
   - `2019` `BERT` `Attention`
