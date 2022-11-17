@@ -4,6 +4,8 @@
 |Reading|Posting|Watching Review|Presentation|Implementation|
 
 ---
+Constructing Now ... (not yet accomplished)
+---
 
 ### NLP
 #### Language Models
@@ -21,19 +23,24 @@
   - `2018` `ELMO`
 - Attention Is All You Need 📄🔍
   - `2017` `Transformer`
-  
+- Neural Machine Translation by Jointly Learning to Align and Translate
+  - `2015` `Seq2Seq with Attention`  
+- Sequence to Sequence Learning with Neural Networks
+  - `2014` `Seq2Seq`
+- Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation
+  - `2014`
   
 #### Reports
 - What Does BERT Look At? An Analysis of BERT's Attention 📄🔍📢
-  - `BERT` `Attention`
+  - `2019` `BERT` `Attention`
   
 #### Question Answering
 - Dense Passage Retrieval for Open-Domain Question Answering 📄🖋️
-  - `Retrieval` `Dense Passage` `Retrieval`
+  - `2020` `Retrieval` `Dense Passage` `Retrieval`
 
-### Recommendation System
-- BPR : Bayesian Personalized Ranking from Implicit Feedback 📄🖋️
-  - `
+### RecSys
+
+
 ### CV
 
 
