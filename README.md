@@ -1,5 +1,49 @@
 # 📃 PAPER
+📄 Reading  
+🖋️ Posting
+🔍 Watching Review  
+📢 Presentation  
+💻 Implementation  
 
+---
+
+### NLP
+#### Language Models
+- Language Models are Few-Shot Learners 🔍
+  - `2020` `GPT-3`
+- ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS 📄🖋️🔍
+  - `2020` `ELECTRA`  
+- RoBERTa: A Robustly Optimized BERT Pretraining Approach 📄🖋️🔍
+  - `2019` `RoBERTa`
+- Language Models are Unsupervised Multitask Learners 🔍
+  - `2019` `GPT-2`
+- Improving language understanding with unsupervised learning 🔍
+  - `2018` `GPT-1`
+- Deep contextualized word representations 📄🖋️🔍📢
+  - `2018` `ELMO`
+- Attention Is All You Need 📄🔍
+  - `2017` `Transformer`
+  
+  
+#### Reports
+- What Does BERT Look At? An Analysis of BERT's Attention 📄🔍📢
+  - `BERT` `Attention`
+  
+#### Question Answering
+- Dense Passage Retrieval for Open-Domain Question Answering 📄🖋️
+  - `Retrieval` `Dense Passage` `Retrieval`
+
+### Recommendation System
+- BPR : Bayesian Personalized Ranking from Implicit Feedback 📄🖋️
+  - `
+### CV
+
+
+### Fundamental
+
+
+
+---
 
 # 📖 LEARNING
 - [손으로 푸는 통계](https://www.youtube.com/playlist?list=PLmljWRabIwWBxh8V6eIODIz--B802mdLt)
