@@ -1,9 +1,7 @@
 # 📃 PAPER
-📄 Reading  
-🖋️ Posting  
-🔍 Watching Review  
-📢 Presentation  
-💻 Implementation  
+|📄|🖋️|🔍|📢|💻|
+|:---:|:---:|:---:|:---:|:---:|
+|Reading|Posting|Watching Review|Presentation|Implementation|
 
 ---
 
