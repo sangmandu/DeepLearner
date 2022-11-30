@@ -42,6 +42,12 @@ Constructing Now ... (not yet accomplished)
 - SBert
 - 
 
+#### NLU
+- Universal Language Model Fine-tuning for Text Classification
+- Learning Transferable Visual Models From Natural Language Supervision
+
+#### Sentiment Analysis
+- Entailment as Few-Shot Learner
 
 #### Reports
 - What Does BERT Look At? An Analysis of BERT's Attention 📄🔍📢
