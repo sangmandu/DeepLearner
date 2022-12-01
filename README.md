@@ -43,7 +43,9 @@ Constructing Now ... (not yet accomplished)
 - 
 
 #### NLU
-- Universal Language Model Fine-tuning for Text Classification
+- Universal Language Model Fine-tuning for Text Classification 🔍
+  - `2018` 
+  
 - Learning Transferable Visual Models From Natural Language Supervision
 
 #### Sentiment Analysis
